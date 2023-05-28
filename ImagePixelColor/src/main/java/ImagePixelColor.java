@@ -86,7 +86,6 @@ public class ImagePixelColor {
 
                 if (csvHex.equalsIgnoreCase(hex)) {
                     JTextArea textArea = new JTextArea("Matching data: \n"
-                            + "Map Colour: " + row[0] + "\n"
                             + "Hexadecimal ID: " + row[1] + "\n"
                             + "Province Name: " + row[2] + "\n"
                             + "Province Owner: " + row[3] + "\n"
