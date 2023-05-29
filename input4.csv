@@ -1,2 +1,54 @@
 Holding Name,Trade Good,Holding Occupied,Total Value of Holding Production,Holdings Owner,Province Location Hex ID,Province Name,Province Owner
 Poland Test,Test,FALSE,420,Poland,F15,Brzeziny,Poland
+Papal States Wheat Farm,Wheat,FALSE,247.5,Orsini,41B,Viterbo,Papal States
+Piombino Orchard,Fruit,FALSE,82.5,Orsini,442,Santa Fiora,Piombino
+Orsini Vineyard,Wine,FALSE,78,Venetian Merchants,4A8,,Orsini
+Orsini Vineyard,Wine,FALSE,156,Venetian Merchants,4A8,,Orsini
+Orsini Vineyard,Wine,FALSE,78,Lombard Merchants,4AA,,Orsini
+Orsini Clothmakers,Cloth,FALSE,150,Lombard Clergy,4AA,,Orsini
+Orsini Dairy,Cheese,FALSE,132,Anconan Merchants,4AA,,Orsini
+Orsini Vineyard,Wine,FALSE,390,Lombard Merchants,4B3,Alessandria,Orsini
+Orsini Clothmakers,Cloth,FALSE,450,Orsini Nobility,4B3,Alessandria,Orsini
+Piombino Vineyard,Wine,FALSE,585,Orsini,440,Pitigliano,Piombino
+Town of Pitigliano,City Taxes,FALSE,144,Orsini,440,Pitigliano,Piombino
+Piombino Wheat Farm,Wheat,FALSE,495,Orsini,440,Pitigliano,Piombino
+Town of Monterotondo,City Taxes,FALSE,96,Orsini,416,Rome,Papal States
+Monterotondo Vineyard,Wine,FALSE,390,Orsini,416,Rome,Papal States
+Monterotondo Wheat Farm,Wheat,FALSE,330,Orsini,416,Rome,Papal States
+Town of Nerola,Wheat,FALSE,247.5,Orsini,418,Bracciano,Papal States
+Town of Bracciano,City Taxes,FALSE,72,Orsini,418,Bracciano,Papal States
+Gravina Vineyards,Wine,FALSE,390,Orsini,3EA,Gravina-Altamura,Castile
+Town of Gravina,City Taxes,FALSE,144,Orsini,3EA,Gravina-Altamura,Castile
+Gravina Wheat Farms,Wheat,FALSE,330,Orsini,3EA,Gravina-Altamura,Castile
+Campagna Vineyards,Wine,FALSE,487.5,Orsini,3EF,Campagna,Castile
+Town of Campagna,City Taxes,FALSE,120,Orsini,3EF,Campagna,Castile
+Campagna Orangery,Citrus,FALSE,330,Orsini,3EF,Campagna,Castile
+Orsini Plantation,Sugar,FALSE,324,Orsini,1950,Vokolida ,Venice
+France Dairy,Cheese,FALSE,495,Orsini,506,,France
+France Zinc Mine,Zinc,FALSE,506.25,Orsini,507,,France
+France Olive Orchard,Olive Oil,FALSE,495,Orsini,507,,France
+France Metalworks,Metalworks,FALSE,506.25,Orsini,513,Desana,France
+Greco-Albanian Artisan Corner,City Taxes,FALSE,24,Orsini,512,,France
+Piombino Dairy,Cheese,FALSE,412.5,Orsini,440,Pitigliano,Piombino
+Piombino Dairy,Cheese,FALSE,412.5,Orsini,44B,Piombino,Piombino
+Piombino Metalworks,Metalworks,FALSE,303.75,Orsini,43F,Orbetello,Piombino
+Piombino Metalworks,Metalworks,FALSE,303.75,Orsini,449,Pian d'Alma,Piombino
+Orsini Plantation,Sugar,FALSE,202.5,Orsini,1950,Vokolida ,Venice
+Orsini Plantation,Sugar,FALSE,202.5,Orsini,1951,Akanthou,Venice
+Orsini Plantation,Sugar,FALSE,202.5,Orsini,1952,Famagusta,Venice
+Orsini Distillery,Rum,FALSE,234,Orsini,1953,Nicosia,Venice
+Orsini Distillery,Rum,FALSE,234,Orsini,1954,Kyrenia,Venice
+Orsini Plantation,Sugar,FALSE,202.5,Orsini,1950,Vokolida ,Venice
+Orsini Plantation,Sugar,FALSE,202.5,Orsini,1951,Akanthou,Venice
+Bologna Marble Quarry,Marble,FALSE,607.5,Orsini,478,Bologna,Bologna
+Bologna Salt Mines,Salt,FALSE,348.75,Orsini,478,Bologna,Bologna
+Orsini Wheat Farm,Wheat,FALSE,330,Orsini,4A8,,Orsini
+Orsini Vineyard,Wine,FALSE,390,Orsini,4A8,,Orsini
+Orsini Orchard,Fruit,FALSE,247.5,Orsini,4A8,,Orsini
+Orsini Logging Camp,Softwood,FALSE,270,Orsini,4AA,,Orsini
+Orsini Iron Mine,Iron,FALSE,303.75,Orsini,4AA,,Orsini
+Orsini Olive Orchard,Olive Oil,FALSE,165,Orsini,4B3,Alessandria,Orsini
+Orsini Gold Mine,Gold,FALSE,708.75,Orsini,4B3,Alessandria,Orsini
+Orsini Copper Mine,Copper,FALSE,202.5,Orsini,4B3,Alessandria,Orsini
+Piombino Vineyard,Wine,FALSE,292.5,Orsini,43E,Giglio Porto,Piombino
+Piombino Olive Orchard,Olive Oil,FALSE,247.5,Orsini,43E,Giglio Porto,Piombino
